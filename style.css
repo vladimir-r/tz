@@ -1,0 +1,57 @@
+.wrap{
+	width: 240px;
+	height: 120px;
+	/* border:1px solid; */
+	box-sizing:BORDER-BOX
+}
+.block{ 
+float:left;
+box-sizing:BORDER-BOX
+}
+
+.net{ 
+width: 60px;
+height: 60px;
+
+
+}
+.mail{
+	width: 240px;
+height: 60px;
+border:10px solid #d84a4a;
+font-size:30px ;
+color:#d84a4a;
+}
+
+.line{
+	display:inline-block;
+	vertical-align:middle;
+	
+}
+input {
+	margin-left:10px;
+	outline:none; 
+border:none
+}
+
+.fb{
+	background: #2e3192;
+	padding: 15px;
+	
+}
+.icon{
+	width: 30px;
+	height: 30px;
+	background:url(fb.png), #2e3192;
+	background-repeat:no-repeat;
+	 
+}
+.vk{
+	background: #0072bc
+}
+.tw{
+	background:#33b5e5
+}
+.rss{ 
+background:#ff8800
+}
